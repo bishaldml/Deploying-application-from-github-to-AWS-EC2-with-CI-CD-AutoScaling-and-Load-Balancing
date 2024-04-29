@@ -125,7 +125,7 @@
 - Select above created TargetGroup.
 - Finally select Create DeploymentGroup
 
-##### Goto CodePipeline:
+### Goto CodePipeline:
 - Select Pipeline
 - create a new Pipeline
 - give pipeline name:
