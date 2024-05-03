@@ -1,4 +1,4 @@
-# Deploying application from github to AWS EC2 with AutoScaling and Load Balancing.
+# Deploying application from github to AWS EC2 with CI/CD, AutoScaling and Load Balancing.
 
 ## First Two Role is required for CodeDeployment:
 1. One for the IAM Instance Profile.
